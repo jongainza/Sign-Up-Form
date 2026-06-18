@@ -36,9 +36,43 @@
     <!-- form -->
      <div class="wrapper-form">
       <h1>Let's do this!</h1>
-      <form action="#" method="post">
- 
+      <form id="registrationForm" action="#" method="post">
+       <!-- form field -->
+       <div class="form-item">
+        <label for="name">first name</label>
+        <input type="text" id="name" name="name">
+       </div>
+       <!-- form field -->
+        <div class="form-item">
+         <label for="lastName">last name</label>
+         <input type="text" id="lastName" name="lastName">
+        </div>
+        <!-- form field -->
+         <div class="form-item">
+          <label for="email">email</label>
+          <input type="email" id="email" name="email">
+         </div>
+         <!-- form field -->
+          <div class="form-item">
+           <label for="#numeber">phone number</label>
+           <input type="number" id="#number" name="#number">
+          </div>
+          <!-- form field -->
+           <div class="form-item">
+            <label for="password">password</label>
+            <input type="password" id="password" name="password">
+           </div>
+          <!-- form field -->
+           <div class="form-item">
+            <label for="password-2">confirm password</label>
+            <input type="password" id="password-2" name="password">
+           </div>
       </form>
+     </div>
+
+     <div class="footer">
+      <button type="submit" form="registrationForm">create account</button>
+      <p>Already have an account? <a href="#">Log in</a></p>
      </div>
   
  </div>
