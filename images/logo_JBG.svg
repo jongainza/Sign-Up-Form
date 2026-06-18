@@ -1,0 +1,17 @@
+<svg width="300" height="300" viewBox="0 0 300 300" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>JBG Logo — jonibygood</title>
+  <desc>Logo JBG fondo negro con borde rojo para jonibygood</desc>
+
+  <!-- Círculo negro con borde rojo -->
+  <circle cx="150" cy="150" r="145" fill="#111"/>
+  <circle cx="150" cy="150" r="145" fill="none" stroke="#D62828" stroke-width="5"/>
+  <circle cx="150" cy="150" r="132" fill="none" stroke="#D62828" stroke-width="1" opacity="0.3"/>
+
+  <!-- J -->
+  <text x="55" y="185" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="100" font-weight="900" fill="#ffffff">J</text>
+  <!-- B -->
+  <text x="150" y="185" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="100" font-weight="900" fill="#D62828">B</text>
+  <!-- G -->
+  <text x="245" y="185" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="100" font-weight="900" fill="#ffffff">G</text>
+
+</svg>
